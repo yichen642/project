@@ -4,7 +4,7 @@
 pip install opencv-python
 pip install matplotlib
 # For Torchvision method 
-pip install torchvision
+[pip install torchvision]
 # For Pixellib method
 pip install tensorflow
 pip install pixellib
