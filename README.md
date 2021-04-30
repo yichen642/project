@@ -10,3 +10,6 @@
 `<pip install tensorflow>`
 
 `<pip install pixellib>`
+
+# To run Pixellib on GPU, follow the instructions to install NVIDIA software packages:
+https://www.tensorflow.org/install/gpu
