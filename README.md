@@ -15,3 +15,14 @@
 
 # To run Pixellib on GPU, follow the instructions to install NVIDIA software packages:
 https://www.tensorflow.org/install/gpu
+
+----------------------------------------
+System information
+----------------------------------------
+Platform:      Windows-10
+Python:        3.7.0
+PyCharm:       2021.1
+Matplotlib:    3.4.4
+NumPy:         1.19.5
+OpenCV:        4.5.1
+----------------------------------------
