@@ -1,3 +1,6 @@
+# Code adapted from Satya Mallik
+# https://github.com/spmallick/learnopencv/tree/master/PyTorch-Segmentation-torchvision
+
 from torchvision import models
 fcn = models.segmentation.fcn_resnet101(pretrained=True).eval()
 from PIL import Image
