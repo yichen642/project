@@ -1,5 +1,5 @@
 # Code adapted from Satya Mallik
-# https://github.com/spmallick/learnopencv/tree/master/PyTorch-Mask-RCNN/
+# https://github.com/spmallick/learnopencv/tree/master/PyTorch-Mask-RCNN
 
 from PIL import Image
 import matplotlib.pyplot as plt
