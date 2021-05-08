@@ -1,3 +1,6 @@
+# Code adapted from Ayoola Lafenwa
+# https://github.com/ayoolaolafenwa/PixelLib
+
 import pixellib
 from pixellib.instance import instance_segmentation
 import cv2 as cv
