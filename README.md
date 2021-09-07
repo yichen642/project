@@ -1,6 +1,6 @@
 # Project - Robovid: keep social distance please!
 
-# Libraries to install, enter into Command prompt:
+# Libraries to install first, enter into Command prompt:
 `<pip install opencv-python>`
 
 `<pip install matplotlib>`
