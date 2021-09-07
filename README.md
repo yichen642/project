@@ -1,4 +1,9 @@
 # Project - Robovid: keep social distance please!
+This is a softare that can output the distance between two person in an image or video in real time.
+If the distance of 2 person is below a threshold value (e.g. 1 metre), the program will output a message such as "Please social distance!" or "Keep X metres apart!" and a red box is drawn around those not social distancing.
+
+![image](https://user-images.githubusercontent.com/83235099/132348354-554455b7-6f05-46e2-88a7-ede68868e292.png)
+![image](https://user-images.githubusercontent.com/83235099/132348397-9f14c694-5d46-40e2-a031-446ef2557be5.png)
 
 # Libraries to install first, enter into Command prompt:
 `<pip install opencv-python>`
